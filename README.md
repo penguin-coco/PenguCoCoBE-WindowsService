@@ -1,2 +1,2 @@
-# PenguCoCoBE-WindowsService
+# PenguinCoCoBE-WindowsService
 For PenguinCoCoBE register windows service
